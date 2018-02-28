@@ -1,4 +1,4 @@
-module.exports = solveEquation(equation) {
+module.exports = function solveEquation(equation) {
   // your implementation
   
 	var arr = equation.split(' ') ;   
